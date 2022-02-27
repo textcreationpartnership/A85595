@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight in Scotland between His Excellencey the Lord Gen: Cromwels forces, and the Scots, upon the advance of Lieutenant Gen. Lesley, and Col. Massie, from Sterling towards Glasco. With the manner of their engagement, the particulars of the said fight, the event and success thereof, and the number killed and taken prisoners. Together with the taking of C. Massie, and committing him prisoner to the Tower of London. Also, a true relation concerning the present state and condition of the Lord Gen. Cromwels army; and exceeding sad news from the Isle of Guernsey: comprising the last bloudy fight, and the full particulars thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85595</idno>
+            <idno type="STC">Wing G1698</idno>
+            <idno type="STC">Thomason E629_11</idno>
+            <idno type="STC">ESTC R202338</idno>
+            <idno type="EEBO-CITATION">99862665</idno>
+            <idno type="PROQUEST">99862665</idno>
+            <idno type="VID">165861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E629[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight in Scotland between His Excellencey the Lord Gen: Cromwels forces, and the Scots, upon the advance of Lieutenant Gen. Lesley, and Col. Massie, from Sterling towards Glasco. With the manner of their engagement, the particulars of the said fight, the event and success thereof, and the number killed and taken prisoners. Together with the taking of C. Massie, and committing him prisoner to the Tower of London. Also, a true relation concerning the present state and condition of the Lord Gen. Cromwels army; and exceeding sad news from the Isle of Guernsey: comprising the last bloudy fight, and the full particulars thereof.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 30th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Massey, Edward, --  Sir, 1619?-1674?</term>
+               <term>Newark, David Leslie, --  Baron, d. 1682.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165861:1" rendition="simple:additions"/>
+            <p>A great FIGHT IN SCOTLAND <hi>BETWEEN</hi> His Excellency the Lord Gen: Crom<g ref="char:EOLhyphen"/>wels Forces, and the Scots, upon the advance of Lieutenant Gen. <hi>Leſley,</hi> and Col. <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſie,</hi> from <hi>Sterling</hi> towards <hi>Glaſco.</hi>
+            </p>
+            <p>
+               <hi>WITH</hi> The manner of their Engagement, the particulars of the ſaid Fight, the event and ſucceſs thereof, and the number killed and taken priſoners. Together with the taking of C. <hi>Maſſie,</hi> and committing him priſoner to the Tower of <hi>LONDON.</hi>
+            </p>
+            <p>Alſo, a true Relation concerning the preſent ſtate and condition of the Lord Gen. <hi>Cromwels Army;</hi> and exceeding ſad news from the Iſle of <hi>Guernſey:</hi> Compriſing the laſt bloudy fight, and the full particulars thereof.</p>
+            <p>
+               <add>May. 30<hi rend="sup">th.</hi>
+               </add> 
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battle">
+            <pb facs="tcp:165861:2"/>
+            <pb n="1" facs="tcp:165861:2"/>
+            <head>A bloudy Fight in Scotland, between his Excellency the Lord General Crom<g ref="char:EOLhyphen"/>wels Forces, and the Scots, upon the advance of Lieu. Gen. David Leſley, and Col. Maſſie vvith their Horſe and Dragoons towards Glaſco.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>SInce my laſt of the ſixth inſtant, ſomewhat hath oc<g ref="char:EOLhyphen"/>curred very remarkable, in reference to the proceed<g ref="char:EOLhyphen"/>ings of both Armies, which is, That upon the ad<g ref="char:EOLhyphen"/>vance of the Lord Generall <hi>Cromwel</hi>'s forces to <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> Lieutenant General <hi>David Leſley,</hi> and Collonel <hi>Maſſie</hi> took their march (Weſtward) towards <hi>Glaſco,</hi> with a reſolution to fall into the Engliſh quarters; and ac<g ref="char:EOLhyphen"/>cordingly attempted a paſſe called <hi>Spaw,</hi> where a ſtrong par<g ref="char:EOLhyphen"/>ty of Collonell <hi>Sydenhams</hi> foot lay intrench'd, who had ſeve<g ref="char:EOLhyphen"/>rall Reſerves of horſe (likewiſe) within half a mile of the ſaid place; but it proved very diſputable for the ſpace of one hour, and the conflict maintain'd with great gallantry on
+<pb n="2" facs="tcp:165861:3"/> both ſides, till at laſt captain <hi>Sanders</hi> came in with a freſh Troop of Horſe<g ref="char:punc">▪</g> who charg<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d twice through the Enemies main Body, doing great execution; each man riding knee to knee, and not flinching from each other in the leaſt; which done, he wheeled about, and flanked the Enemy, with a reſo<g ref="char:EOLhyphen"/>lution to charge the boots horſe onely; but in the mean time ſo thick was the ſhot which they received from the Engliſh foot, that they thought it convenient to make good their re<g ref="char:EOLhyphen"/>treat, which accordingly they did, leaving about 30 men be<g ref="char:EOLhyphen"/>hind them ſlain on the place, beſides what were wounded, which are ſuppoſed to be trebble the number. On our ſide were Pain and wounded about 20.</p>
+                  <p>The great day of Battel we expect ſuddenly, for both Ar<g ref="char:EOLhyphen"/>mies are preparing for an Engagement, and in order there<g ref="char:EOLhyphen"/>unto eight Regiments of Horſe <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> come on this ſide <hi>Sterling,</hi> the body of their Infantry lies in the Park neer the bridge, where they have pitch'd their Tents, and their Captain <hi>Ge<g ref="char:EOLhyphen"/>nera iſſimo</hi> (the <hi>King</hi>) often rides amongſt them.</p>
+                  <p>Moſt of their Enſignes are red and white, having this <hi>Motto</hi> engraven in a large Character, <hi>For Religion, King, and King<g ref="char:EOLhyphen"/>dome.</hi>
+                  </p>
+                  <p>They have lately randezvouz'd about <hi>Fife, Sterling, Kin<g ref="char:EOLhyphen"/>roſs,</hi> and <hi>Dunbarton,</hi> and have muſter'd about 20000 horſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and foot, though the frequent talk is about 40000. After the laſt muſter at <hi>Sterling,</hi> divers of the Lord <hi>Balcarras</hi>'s Regiment of foot attempted a flight from their Colours; but were ſound<g ref="char:EOLhyphen"/>ly cudgel'd and beaten back by coll. <hi>Crawfords</hi> Regiment of horſe. His Excellency the Lord Generall hath not (as yet) attempted any thing conſiderable, for when ever we go about to get into <hi>Fiſe,</hi> we muſt expect very hard ſervice: and no queſtion, but they will diſpute the paſſes with us; which we cannot do, unleſſe we are furniſhed with all manner of provi<g ref="char:EOLhyphen"/>ſions both for horſe and foot: We chearfully wait for the
+<pb n="3" facs="tcp:165861:3"/> good ſeaſon when the Lord ſhall lead us forth: and we doubt not but our work will be wel timed, if we can wait the Lords leiſure: O<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely there is an overhaſty ſpirit in us g<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ner<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly, which carries us out to diſcontents and frowardneſſe, which is both ſad and grievous to divers. I wiſh that we may be all wrought up to an even frame of heart, to welcome all diſpen<g ref="char:EOLhyphen"/>ſations which may befall us here.</p>
+                  <closer>
+                     <dateline>Lithgow <date>18 <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, 1651.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>By an expreſſe Letter further from Scotland it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hus certified; That their King having receiv'd intelligence, that M<hi rend="sup">r</hi> 
+               <hi>Cook</hi> was taken, and ſent priſoner to the Tower of <hi>London,</hi> imm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>diatly commanded L. G. <hi>Leſley</hi> to diſpatch a letter to the L. G. <hi>Cromwel,</hi> demanding civil uſage both for him and others; and that in caſe of non-performance thereof, that no favour or mercy ſhould be given to Col. <hi>Axtel,</hi> Col. <hi>Lehunt,</hi> and Col. <hi>Sadler,</hi> pri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oners in the Iſle of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cilley.</hi> Whereupon his Excellency returned a very round and tart anſwer, ſignifying, <hi>That</hi> M<hi rend="sup">r</hi> Cook <hi>was no priſoner of war, and that he doubted not but ſpeedily to have the ſaid Colonels a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> liberty,</hi> &amp;c. Their King is again return'd to <hi>Sterling,</hi> and hath given an expre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Order, That all the Engliſh throughout his Army; ſhall be im<g ref="char:EOLhyphen"/>mediatly reduc'd to the power and command of Col. <hi>Maſſie,</hi> whoſe Brigade Increaſeth daily, and occaſion'd chiefly by his private-alluring letters to the L. G. <hi>Cromwels</hi> Foot, therein promiſing in the name of the King, that if they would deſert their preſent employments, and engage for him, that each man ſhould receive both horſe and arms, and an ad<g ref="char:EOLhyphen"/>ditional gratuity, which hath wrought upon divers perſideous perſons.</p>
+            <p>
+               <hi>Middle<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> is marched into <hi>Angus</hi> with his horſe, where the Com. of the Army are furniſhing him with Arms. 1500 of his foot are come to <hi>Sterling,</hi> and he ſtands much to be an <hi>Independent-Army,</hi> and diſtinct of himſelf. They talk much of coming for <hi>England,</hi> eſpecially Col. <hi>Maſſey,</hi> who is very courteous, and free to the Engliſh that go over to him, and promiſeth much. Some give out, that the Scottiſh Army have a deſign to march by the L. G. <hi>Cromwel</hi> (if poſſible) and to make <hi>England</hi> the ſeat of war; but there is great danger of putting thoſe projects in executi<g ref="char:EOLhyphen"/>on. Their King is removed to <hi>Dumferling;</hi> but the Army remain ſtill a<g ref="char:EOLhyphen"/>bout <hi>Sterling,</hi> where they have intrenched themſelves all along the Ri<g ref="char:EOLhyphen"/>ver ſide: they have likewiſe raiſed divers Mounts, and planted great ſtore of Ordnance.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:165861:4"/>
+                  <head>A Letter from the Iſland of <hi>Guernzey,</hi> May 16. 1651.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>BY yours I underſtand that the late tranſactions in <hi>Gueruzey</hi> are va<g ref="char:EOLhyphen"/>riouſly and ſtrangely repreſented in <hi>England;</hi> therefore I ſhall give you a true and impartial account of the buſineſſe as briefly as I can.</p>
+                  <p>Major <hi>Harriſon</hi> Deputy Governour of this Iſland, having intelli<g ref="char:EOLhyphen"/>gence that there were but forty two perſons in Caſtle-<hi>Cornet,</hi> and that eighteen of them were ſick, and able to do no ſervice in defending the walls; he was very deſirous to take hold of this opportunity, and when the Ammunition was arrived, the ladders fitted, with other things neceſſarie; he conſulted with the Officers concerning the car<g ref="char:EOLhyphen"/>rying on of the buſineſſe, found them armed with courage and cheer<g ref="char:EOLhyphen"/>fulneſſe to attempt the ſaid Caſtle, knowing how acceptable, if ſucceſ<g ref="char:EOLhyphen"/>full, the ſervice would be to thoſe who intruſted them in that Iſland.</p>
+                  <p>We likewiſe had intelligence that ſome of the Iſland Captains had given out, that they were reſolved to take the Caſtle by ſtorm, and had taken the ſubſcriptions of ſeveral, perſons to that purpoſe; though I am very confident they never intended any ſuch things; but onely a meer pretence to inſnare and betray the Souldiers, by animating them by their pretented forwardneſſe: But we clearly found their villany afterwards, and that theſe were the men that moſt of all oppoſed the coming of the Parliaments forces into the Iſland at the firſt, and ſince their coming have indeavoured the removeal of them; whereby it is more then probable the Parliament would ſoon looſe their intereſt in the Iſland. But to return,</p>
+                  <p>Had the intelligence been true which was brought to the Gover<g ref="char:EOLhyphen"/>nour; in all probability the Caſtle had been ours: For at the firſt on<g ref="char:EOLhyphen"/>ſet (which was performed with as great courage and reſolution as hath been obſerved ſince theſe wars) thirteen of the Enemy were diſabled being wounded or ſlain, which being added to the eighteen which were ſaid to be ſick, there remained but eleven: But we found it other<g ref="char:EOLhyphen"/>wiſe, and that there was above three-ſcore able men in it, many of them Reformadoes, &amp;c. which is ſufficient to keep the Caſtle againſt three thouſand: Our ladders beaten down and broken with ſtones, timber, caſe-ſhot from the flankers, &amp;c. many of our men wounded, and thirty
+<pb n="5" facs="tcp:165861:4"/> two ſlain; two Captains wounded, one Lieutenant, and one Enſign ſlain in the place.</p>
+                  <p>Major <hi>Hariſon</hi> uſed all the means he could to cauſe boats to fetch off the party, but could not prevail either by reward or threatnings; and indeed it was equally dangerous to go to and fro in boats, as to abide under the walls; one boat came, and ſuddenly took in divers wound<g ref="char:EOLhyphen"/>ed men; but going off, was ſunk by a ſhot from the Caſtle, and two, men killed in the boat: the reſt that were living, another boat took up and ſaved, and it was impoſſible that ſuch a party of 200 men ſhould be fetcht off in boats, the confuſion would be ſuch.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>An Abſtrast from Holland.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>LAſt Fryday night the Duk of <hi>Tork</hi> with thirty or forty of his fol<g ref="char:EOLhyphen"/>lowers came to the <hi>Hague,</hi> and the next day kept a faſt with the <hi>Prin<g ref="char:EOLhyphen"/>ces Royal</hi> his ſiſter, they give out that he is ſent for into <hi>France,</hi> which is not credible, but that they do it out of deſigne that he ſhould be deſired by the <hi>Stares</hi> to go from hence; for he was afraid before he came, that they would not be pleaſed with his being here leſt ſome affronts ſhould be offered to my Lord Ambaſſadors, or thoſe that belong to them, by ſome of his train, wherefore he thinks he will not ſpeak to him, becauſe he ſays he intends not to ſtay. The States have preſented Mounſieur <hi>Belleur</hi> (the <hi>French</hi> Ambaſſador) with a golden chain worth 600 <hi>li.</hi> They have taken into conſideration the propoſals of the Mar<g ref="char:EOLhyphen"/>chants, to ſend into the Straights 40 Men of War, to ſight the French Pirates. They have alſo ſent a Meſſage to the Queen of <hi>Bohemia,</hi> and another to the Duke of <hi>York,</hi> requiring them to keep their Courts in Order, without giving offence or moleſtation to the Engliſh Embaſſa<g ref="char:EOLhyphen"/>dors and their ſervants.</p>
+                  <p>But yet notwithſtanding on Saturday laſt Her Royall Highneſſe the young Princeſſe of <hi>Orange</hi> celebrated a Faſt for the proſperous ſucceſſe and iſſue of the Battle which her brother the King of <hi>Scotland</hi> intends to fight with Gen. <hi>Cromwel.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:165861:5"/>
+            <p>Since the receit of the laſt news from <hi>Scotland,</hi> we are fur<g ref="char:EOLunhyphen"/>ther advertiz'd, That the party beyond <hi>Sterling</hi> have a <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> devotion to <hi>Monarchy,</hi> taking a pride to count the ſucceſſion of 110 Kings from <hi>Fergus</hi> his Family (above 50 of which they have either capitally or totally condemned and executed, or privately murther'd) and they ſeem not yet perſwaded of a neceſſity of a change among us, or themſelves, though they might be pleaſed to conſider that their Monarchy expired in the riſe of <hi>Presbytery,</hi> which leaves nothing but the name of a King (where it takes place) devouring the ſubſtance.</p>
+            <p>As for that ſtrange and incredulous <hi>Report,</hi> of the revolting of 30 of the Lord Gen. <hi>Cromwels Life-guard</hi> to the Enemy, it is very abſurd and falſe; for they are both unanimous and faithful, and the Army in an excellent poſture and condition.</p>
+            <p>Captain <hi>Maſſie</hi> (brother to col. <hi>Maſſie</hi>) was lately appre<g ref="char:EOLhyphen"/>hended at <hi>Colledge</hi>-hill, and ſent priſoner to the Tower of <hi>London,</hi> by Order from the Councel of State.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
